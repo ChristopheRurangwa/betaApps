@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BETA_C_APP.iml" filepath="$PROJECT_DIR$/.idea/BETA_C_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../POSTREQST/.idea/POSTREQST.iml" filepath="$PROJECT_DIR$/../POSTREQST/.idea/POSTREQST.iml" />
+    </modules>
+  </component>
+</project>
